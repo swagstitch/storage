@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/main/","tags":["gardenEntry"],"created":"2024-02-09T01:26:41.284-03:00"}
 ---
 
-![Pasted image 20240209015405.png](/img/user/Pasted%20image%2020240209015405.png)
+
 # [ares]
 
 1. 8607 8903		 6. 6093 0207
@@ -25,3 +25,8 @@ WMNBBKL6 SKNW3ZGQ 6DHSD38B 6BCYNXEC LXQHBL9F 2T46NZFP V7FMVK2D XD39NJC9 8VYXFHLX
 
 [T5WH-TGHN-Y9A7-63HF-WXQW-DDZW]
 
+
+
+
+
+2/9/24
